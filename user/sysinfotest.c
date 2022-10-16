@@ -45,6 +45,8 @@ testmem() {
   
   sinfo(&info);
 
+  printf("info.freemem: %d\n", info.freemem);
+
   if (info.freemem!= n) {
     printf("FAIL: free mem %d (bytes) instead of %d\n", info.freemem, n);
     exit(1);
