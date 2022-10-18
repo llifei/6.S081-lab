@@ -9,6 +9,6 @@
 
 2022-10-15 ---- lab2 completed
 
-<a href = "https://kdocs.cn/l/ciseDx4BbNvT">lab2 实验报告 </a>
+<a href = "https://kdocs.cn/l/crTdlCPtrcj7">lab2 实验报告 </a>
 
 
